@@ -21,5 +21,5 @@ https://www.guruguru.science/competitions/13/
   - targetをビンニングしてStratifiedKFold が重要っぽい(binの間隔は？)
  - https://www.guruguru.science/competitions/13/discussions/386fb2ed-f0a6-4706-85ba-7a03fedea375/
  - pandas-profilingがGoogleColabでできなくて出てきたQiita(wakameさんだ)[url](https://qiita.com/wakame1367/items/39faf5d91e20a5cf5772#_reference-a12e589891bdd7bf36e5)
- 　- 全然profileできねぇじゃねえか！...と思ったらwakameさんのipynbはそのままだと動くわ...
+   - 全然profileできねぇじゃねえか！...と思ったらwakameさんのipynbはそのままだと動くわ...
    - wakameさんのurlにいくとcsvで出てくるけど、俺のは普通にHPだ。これを明日何とかしよ
