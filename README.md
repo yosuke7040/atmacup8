@@ -23,3 +23,8 @@ https://www.guruguru.science/competitions/13/
  - pandas-profilingがGoogleColabでできなくて出てきたQiita(wakameさんだ)[url](https://qiita.com/wakame1367/items/39faf5d91e20a5cf5772#_reference-a12e589891bdd7bf36e5)
    - 全然profileできねぇじゃねえか！...と思ったらwakameさんのipynbはそのままだと動くわ...
    - wakameさんのurlにいくとcsvで出てくるけど、俺のは普通にHPだ。これを明日何とかしよ
+
+### 20201210
+ - 明日何とかしよ？あれは嘘だ。明後日だった。まあ昨日英会話なので・・・
+ - 普通にgotoさんのソースそのままで行けた。インポート２回してエラー出たのが問題だったっぽい
+ - 全然進まないが時間だけは進む。バグ
