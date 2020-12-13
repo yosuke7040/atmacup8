@@ -2,6 +2,10 @@
 
 https://www.guruguru.science/competitions/13/
 
+### 動画講座
+ - https://www.youtube.com/watch?v=LbOPKJu6bFs&ab_channel=atma%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE
+ - https://www.youtube.com/watch?v=1UP4ccqBtW8&ab_channel=atma%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE
+
 ## OverView
  - ゲームの情報を使って、ゲームの売上を予測します。使えるデータに関しては data sources から閲覧できます。
  
