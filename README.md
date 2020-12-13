@@ -33,3 +33,9 @@ https://www.guruguru.science/competitions/13/
  - PCに環境構築するページ見てたら時間が溶けてた・・・
  - gotoさんのipynbのコメントがわかりやすくて大事だ
  
+### 202012123
+ - 講座_1_データを眺めて_submission_をする.ipynbでサブ。simple_submission.csv
+  - score 1.4541
+  
+ - nb001:初心者向け講座２回目のまま
+  - score .9179
